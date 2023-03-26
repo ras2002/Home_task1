@@ -1,0 +1,33 @@
+.c1{
+
+background-color: #1d2951;
+
+display: flex;
+justify-content: center;
+font-family:'Times New Roman', Times, serif;
+
+}
+.c1>div{
+    background-color: white;
+    /* padding: 25px; */
+    font-size: 15px;
+    margin: 20px;
+    height: 50px;
+    text-align: center;
+    line-height: 1.4;
+    width: 200px;
+    font-family:'Times New Roman', Times, serif;
+    border-color: red;
+   
+}
+.c2{
+    text-align: right;
+}
+.c3{
+    float: left;
+    margin-right: 10px;
+}
+.c4{
+    background-color: cadetblue;
+    color: aliceblue;
+}
